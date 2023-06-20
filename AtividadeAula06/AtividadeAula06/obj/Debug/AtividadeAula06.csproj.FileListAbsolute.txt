@@ -1,0 +1,8 @@
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\obj\Debug\AtividadeAula06.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\obj\Debug\AtividadeAula06.csproj.SuggestedBindingRedirects.cache
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\obj\Debug\AtividadeAula06.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\bin\Debug\AtividadeAula06.exe.config
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\bin\Debug\AtividadeAula06.exe
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\bin\Debug\AtividadeAula06.pdb
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\obj\Debug\AtividadeAula06.exe
+C:\Users\famil\source\repos\AtividadeAula06\AtividadeAula06\obj\Debug\AtividadeAula06.pdb
